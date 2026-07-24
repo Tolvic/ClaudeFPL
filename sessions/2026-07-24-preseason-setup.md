@@ -56,9 +56,16 @@ well for Bruno as early captain/vice. Worst: BOU (3.67), FUL (3.33).
 | FWD | João Pedro (CHE) | 7.5 | Mid-price scorer, decent fixtures. |
 | FWD | Kusi-Asare (FUL) | 4.5 | Bench fodder (won't be fielded). |
 
-Suggested XI (3-5-2): Verbruggen; Gabriel, Tarkowski, Truffert; Bruno,
-Gibbs-White, Wilson, Yarmoliuk, Hughes; Haaland, João Pedro.
-**Captain:** Haaland. **Vice:** Bruno.
+**Provisional XI (4-4-2):** Verbruggen; Gabriel, Tarkowski, Mitchell, Truffert;
+B.Fernandes, Gibbs-White, Wilson, Yarmoliuk; Haaland, João Pedro.
+**Captain:** Haaland (MCI v BOU, H). **Vice:** B.Fernandes (MUN v HUL, A).
+**Bench order:** Hughes (plays) → Diop → Kusi-Asare; GK bench Dubravka.
+
+4-4-2 is the strongest shape here — it fields four real defenders and three real
+mids plus one nailed enabler (Yarmoliuk), rather than starting both cheap
+enablers. Watch items before lock: Truffert has the only hard opener (MCI away) —
+bench candidate; confirm Gabriel/João Pedro fit and nailed; captaincy could tilt
+to Bruno as a differential if Haaland carries any knock.
 
 Constraints verified by `squad_check.py`: 15/15, £100.0m, positions OK, max 2
 per club.
