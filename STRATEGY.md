@@ -2,7 +2,12 @@
 
 ## Objective and risk posture
 
-The target is **winning a mini league**, not maximising overall rank. That
+The target is **winning a small classic mini league (<20 managers)**, not
+maximising overall rank — confirmed by Terry, who has otherwise given full
+discretion over how the team is run. In a small classic league a handful of big
+weeks decides the title, which rewards **calculated differentials** over pure
+template play. Chosen posture: solid template core + deliberate,
+evidence-backed differentials (balanced, tilted toward variance-creation). That
 changes the optimal play:
 
 - Against a small field, the winner usually needs an above-average score *plus*
