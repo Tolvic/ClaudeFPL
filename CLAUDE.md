@@ -22,7 +22,7 @@ answer to "which option do you prefer?"
 
 ## The team
 
-- **"Son of a Pitch"** — FPL entry **843131** (in `team.json`).
+- **"Parked the Bus"** — FPL entry **843131** (in `team.json`).
 - **Goal:** win a small classic mini league (<20 managers). This rewards
   calculated differentials over pure template — see `STRATEGY.md`.
 - **Cover:** the team name deliberately gives no hint the team is AI-managed.
