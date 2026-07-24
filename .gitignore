@@ -1,0 +1,9 @@
+# Regenerable "latest" snapshots — always rebuild with fetch_data.py.
+data/*_latest.json
+
+# Keep dated snapshots (data/*_YYYYMMDD.json) as the historical record.
+
+__pycache__/
+*.pyc
+.venv/
+.DS_Store

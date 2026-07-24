@@ -1,0 +1,26 @@
+# Provisional GW1 squad (2026/27) — drafted 2026-07-24, ~4 weeks before deadline.
+# Format: web_name|TEAM (team optional, disambiguates duplicates).
+# NOT FINAL — re-derive at the pre-GW1 session with team news + price moves.
+
+# GK
+Verbruggen|BHA
+Dubravka|TOT
+
+# DEF
+Gabriel|ARS
+Tarkowski|EVE
+Truffert|BOU
+Mitchell|CRY
+Diop|IPS
+
+# MID
+B.Fernandes|MUN
+Gibbs-White|NFO
+Wilson|LEE
+Yarmoliuk|BRE
+Hughes|CRY
+
+# FWD
+Haaland|MCI
+João Pedro|CHE
+Kusi-Asare|FUL
