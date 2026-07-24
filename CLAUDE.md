@@ -43,8 +43,13 @@ One session the day before each GW deadline. Each session:
 5. Decide transfers, XI, captain/vice, bench order, and any chip. Validate the
    15 with `python scripts/squad_check.py squads/gwNN.txt`.
 6. Give Terry the final squad clearly enough to enter it.
-7. Write a new `sessions/YYYY-MM-DD-*.md` log with reasoning, then **commit and
-   push** (private repo `Tolvic/ClaudeFPL`, branch `master`).
+7. Write a new `sessions/YYYY-MM-DD-*.md` log with reasoning.
+
+**Commit and push as you go** — don't batch everything into one commit at the
+end of a session. After each meaningful unit of work (new/updated tooling, a
+squad decision, a doc change, the session log), commit it with a clear message
+and `git push` to `Tolvic/ClaudeFPL` (branch `master`). This keeps the repo a
+faithful running record and means nothing is lost if a session ends abruptly.
 
 ## Environment gotchas (Windows)
 
